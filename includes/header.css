@@ -1,0 +1,96 @@
+
+.header{
+    margin:-10px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.box1{
+    background-color: rgb(40, 40, 40);
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(255, 255, 255);
+
+}
+
+.b1_content{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.b1_content li{
+    padding-right: 20px;
+}
+
+
+.box2{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    height: 50.6;
+    color: white;
+}
+
+.b2_content{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.b2_content li{
+    padding-right: 65px;
+}
+
+.dropdowncontent{
+    background-color: aqua;
+}
+
+
+
+/* header.css */
+
+/* Add your styles for the dropdown here */
+.dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    box-shadow: 0 8px 16px rgb(255, 255, 255);
+    z-index: 1;
+}
+
+.hdropdown:hover .dropdowncontent {
+    display: block;
+}
+
+.hddcontent {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hddcontent li {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.hdropdown{
+    display: flex;
+    margin-top: 16px;
+}
+
+.logo img{
+   width: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+
+a:hover{
+    color: rgb(146, 0, 0);
+}
