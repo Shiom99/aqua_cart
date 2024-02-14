@@ -3,7 +3,7 @@
     <head>
         <title>Home Page</title>
     </head>
-    <body style="background-color: #02374e;">
+    <body style="background-color: rgb(141, 162, 200);">
         <div class="#">
             <?php include_once('includes/header.php'); ?>
             <!--Home Slider-->

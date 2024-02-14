@@ -3,8 +3,8 @@
     <div class="box1">
             <ul class="b1_content">
                 <li><a href="#">Admin</li>
-                <li><a href="SignIn.php">SignIn</a></li>
-                <li><a href="SignUp.php">SignUp</a></li>
+                <li><a href="signIn.php">SignIn</a></li>
+                <li><a href="signUp.php">SignUp</a></li>
             </ul>
     </div>
         <!-- header content -->
