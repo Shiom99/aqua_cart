@@ -1,0 +1,70 @@
+.about_us{
+    background-color: #2b3948;
+
+}
+
+.about_us h1{
+    display: flex;
+  justify-content: center;
+}
+
+.a1 {
+    box-shadow: 40px 40px 80px rgb(0, 0, 0);;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+  width: 905px;
+  font-size: 20px;
+  margin-top: 45px;
+  margin-left: 90px;
+  height: 193px;
+}
+
+.a2 {
+    box-shadow: 40px 40px 80px rgb(0, 0, 0);;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease;
+    width:800px;
+    font-size: 20px;
+    margin-top: 70px;
+  margin-left: 787px;
+  height: 193px;
+}
+
+.image1 img{
+    box-shadow: 40px 40px 80px rgb(0, 0, 0);;
+  border: 2px solid #ccc;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+    border-radius: 50%;
+  width: 300px;
+  height: 210px;
+  object-fit: cover;
+  margin-left: 105px;
+  margin-bottom: -30px
+    
+}
+
+.image2 img{
+    box-shadow: 40px 40px 80px rgb(0, 0, 0);;
+  border: 2px solid #ccc;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+    border-radius: 50%;
+  width: 300px;
+  height: 210px;
+  object-fit: cover;
+  margin-left: 373px;
+  margin-top: -200px
+}
+
+.a1, .image1{
+    display:inline-block;
+}
+
+.a2, .image2{
+    display:inline-block;
+}

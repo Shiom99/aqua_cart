@@ -3,7 +3,7 @@
     <head>
         <title>Sign Up - aqua_cart</title>
 
-        <link rel="stylesheet" type= "text/css" href="styles/signIn.css">
+        <link rel="stylesheet" type= "text/css" href="styles/pagestyles/signIn.css">
     </head>
     <body style="background-color: rgb(141, 162, 200);">
         <div class="hcontent">
