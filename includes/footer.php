@@ -7,7 +7,7 @@
             <!-- footer column -->
             <div class="b1">
                 <ul>Information
-                    <li>About Us</li>
+                    <li><a  href="aboutus.php">About Us</a></li>
                     <li>Privacy Policy</li>
                 </ul>
             </div>
@@ -22,8 +22,8 @@
             <!-- footer column-->
             <div class="b3">
                 <ul>Follow Us
-                    <li>Email logo</li>
-                    <li>Instagram logo</li>
+                    <li><img src="images/icons/email_icon.png"></li>
+                    <li><img src="images/icons/insta_icon.png"></li>
                     <li>Facebook logo</li>
                     <li>Youtube logo</li>
                 </ul>
